@@ -26,7 +26,8 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   geabal
+disqus_url:         https://disqus.com/by/disqus_QOTqOiwAjk/
+disqus_shortname:   https-geabal-github-io
 
 # Social
 # if you don't have any of social below, comment the line.
