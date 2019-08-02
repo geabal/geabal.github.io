@@ -1,37 +1,22 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: 블로그 소개
+tags: [about]
+date: 2019-08-03
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+<center>해당 블로그는 <a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> jekyll 테마를 사용하고 있습니다.</center>
 
-## Preview
+## 소개하는 말
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+코딩을 배우고 있는 학생입니다.
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+주로 사용하는 언어는 c++이지만 AI를 배울 때는 파이썬을 사용하고 있습니다.
 
-## Getting Started
+게임을 좋아합니다.
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+### 기타 알림
+
+테마가 영문기준으로 되어있다 보니 폰트, 메뉴 등 신경 쓸 게 많습니다. 블로그 보수는 천천히 할게요.
+
