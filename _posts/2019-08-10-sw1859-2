@@ -1,0 +1,19 @@
+---
+layout: post
+title: "[SW Expert Academy] 백만 장자 프로젝트 2(수정중)"
+excerpt: "SW Expert Academy 1859번 다시 풀어보기"
+tag:
+- SW Expert Academy
+- D2
+comments: false
+---
+
+<center>이 포스트는 미완성된 포스트입니다.</center>
+
+## 아이디어
+이것과 똑같은 문제를 풀었던 [전 포스트](https://geabal.github.io/sw1859/)에서는 매매가가 상승했다가 하락하는 지점(peak)를 구하는 방법으로 구현하고자
+했지만 틀린 방법임을 깨닫고 조금 허탈했다.
+
+이번에는 피크값을 구하는 대신 최대값을 찾고자 한다.
+
+* 매매가가 저장된 queue 안에서 최대값 찾기→ 최대값이 첫번째 요소인 경우 해당 요소만 dequeue / result = Σ(최대값 - 그 이전 요소)
